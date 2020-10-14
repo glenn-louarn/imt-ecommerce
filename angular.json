@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "imt-ecommerce"
+    }
+  },
+  "defaultProject": "imt-ecommerce",
+  "cli": {
+    "analytics": "4e5fdd5d-bd21-43e1-b0b3-b2859444aa52"
+  }
 }
